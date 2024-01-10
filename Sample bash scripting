@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Enter a [.1 ] number to generate its [..4..] table:"
 read number
 
