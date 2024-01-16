@@ -9,4 +9,4 @@ services:
       - /home/sivathamil/siva:/var/www/html
 volumes:
   mysiva:
-~            
+            
